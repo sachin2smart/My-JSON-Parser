@@ -1,0 +1,565 @@
+{
+   "list": {
+      "equipment_type": [
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Auto Carrier (DAT)",
+            "_exchange_type": "O",
+            "_id": "AC"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "Y",
+            "_descr": "AUTOMATIC TRANSMISSION",
+            "_id": "AUTO"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed B-Train (DAT)",
+            "_exchange_type": "F",
+            "_id": "BT"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Container (DAT)",
+            "_exchange_type": "O",
+            "_id": "C"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Container, Insulated (DAT)",
+            "_exchange_type": "O",
+            "_id": "CI"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Conestoga (DAT)",
+            "_exchange_type": "O",
+            "_id": "CN"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Container Refrigerated (DAT)",
+            "_exchange_type": "O",
+            "_id": "CR"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Conveyor (DAT)",
+            "_exchange_type": "O",
+            "_id": "CV"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Double Drop (DAT)",
+            "_exchange_type": "O",
+            "_id": "DD"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Dump Trailer (DAT)",
+            "_exchange_type": "O",
+            "_id": "DT"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed (DAT)",
+            "_exchange_type": "F",
+            "_id": "F"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed Airride (DAT)",
+            "_exchange_type": "F",
+            "_id": "FA"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed with chains (DAT)",
+            "_exchange_type": "F",
+            "_id": "FC"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed or Step Deck (DAT)",
+            "_exchange_type": "F",
+            "_id": "FD"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed Hotshot (DAT)",
+            "_exchange_type": "F",
+            "_id": "FH"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed w/ Team (DAT)",
+            "_exchange_type": "F",
+            "_id": "FM"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed Conestoga (DAT)",
+            "_exchange_type": "F",
+            "_id": "FN"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed Over-dimension",
+            "_exchange_type": "O",
+            "_id": "FO"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flat/Van/Reefer (DAT)",
+            "_exchange_type": "F",
+            "_id": "FR"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed w/Traps (DAT)",
+            "_exchange_type": "F",
+            "_id": "FT"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed Hazmat (DAT)",
+            "_exchange_type": "F",
+            "_id": "FZ"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Hopper Bottom (DAT)",
+            "_exchange_type": "O",
+            "_id": "HB"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Insulated Van or Reefer (DAT)",
+            "_exchange_type": "R",
+            "_id": "IR"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Drop Deck, Landoll (DAT)",
+            "_exchange_type": "O",
+            "_id": "LA"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Lowboy (DAT)",
+            "_exchange_type": "O",
+            "_id": "LB"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Lowboy Overdimension (DAT)",
+            "_exchange_type": "O",
+            "_id": "LO"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Lowboy or RGN (DAT)",
+            "_exchange_type": "O",
+            "_id": "LR"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Moving Van (DAT)",
+            "_exchange_type": "O",
+            "_id": "MV"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Flatbed Maxi (DAT)",
+            "_exchange_type": "F",
+            "_id": "MX"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Pneumatic (DAT)",
+            "_exchange_type": "O",
+            "_id": "NU"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Opentop (DAT)",
+            "_exchange_type": "V",
+            "_id": "OT"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Power Only (DAT)",
+            "_exchange_type": "V",
+            "_id": "PO"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer (DAT)",
+            "_exchange_type": "R",
+            "_id": "R"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer Doubles (DAT)",
+            "_exchange_type": "R",
+            "_id": "R2"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer Airride (DAT)",
+            "_exchange_type": "R",
+            "_id": "RA"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Removable GooseNeck (DAT)",
+            "_exchange_type": "O",
+            "_id": "RG"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer Logistics (DAT)",
+            "_exchange_type": "R",
+            "_id": "RL"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer w/ Team (DAT)",
+            "_exchange_type": "R",
+            "_id": "RM"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer Intermodal (DAT)",
+            "_exchange_type": "R",
+            "_id": "RN"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer Pallet Exchange (DAT)",
+            "_exchange_type": "R",
+            "_id": "RP"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer or Vented Van",
+            "_exchange_type": "R",
+            "_id": "RV"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Reefer Hazmat (DAT)",
+            "_exchange_type": "R",
+            "_id": "RZ"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Straight Box Truck",
+            "_exchange_type": "O",
+            "_id": "SB"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Step Deck (DAT)",
+            "_exchange_type": "O",
+            "_id": "SD"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Stepdeck Conestoga (DAT)",
+            "_exchange_type": "O",
+            "_id": "SN"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Step Deck or RGN",
+            "_exchange_type": "O",
+            "_id": "SR"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Strectch Trailer (DAT)",
+            "_exchange_type": "V",
+            "_id": "ST"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Tanker Aluminum (DAT)",
+            "_exchange_type": "O",
+            "_id": "TA"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Tanker Intermodal (DAT)",
+            "_exchange_type": "O",
+            "_id": "TN"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Tanker Steel (DAT)",
+            "_exchange_type": "O",
+            "_id": "TS"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Truck and Trailer (DAT)",
+            "_exchange_type": "O",
+            "_id": "TT"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van (DAT)",
+            "_exchange_type": "V",
+            "_id": "V"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Double (DAT)",
+            "_exchange_type": "V",
+            "_id": "V2"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Airride (DAT)",
+            "_exchange_type": "V",
+            "_id": "VA"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Roller Bed (DAT)",
+            "_exchange_type": "V",
+            "_id": "VB"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Curtain (DAT)",
+            "_exchange_type": "V",
+            "_id": "VC"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van or Flatbed (DAT)",
+            "_exchange_type": "V",
+            "_id": "VF"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Lift-Gate (DAT)",
+            "_exchange_type": "V",
+            "_id": "VG"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Hotshot (DAT)",
+            "_exchange_type": "V",
+            "_id": "VH"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Insulated (DAT)",
+            "_exchange_type": "V",
+            "_id": "VI"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Logistics (DAT)",
+            "_exchange_type": "V",
+            "_id": "VL"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van w/ Team (DAT)",
+            "_exchange_type": "V",
+            "_id": "VM"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Intermodal (DAT)",
+            "_exchange_type": "V",
+            "_id": "VN"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Pallet Exchange (DAT)",
+            "_exchange_type": "V",
+            "_id": "VP"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van or Reefer (DAT)",
+            "_exchange_type": "V",
+            "_id": "VR"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Conestoga (DAT)",
+            "_exchange_type": "V",
+            "_id": "VS"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van or Flats w/Tarps (DAT)",
+            "_exchange_type": "V",
+            "_id": "VT"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Vented (DAT)",
+            "_exchange_type": "V",
+            "_id": "VV"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Blanket Wrap",
+            "_exchange_type": "V",
+            "_id": "VW"
+         },
+         {
+            "___name": "equipment_type",
+            "_company_id": "TMS",
+            "_applies_to": "L",
+            "_descr": "Van Hazmat (DAT)",
+            "_exchange_type": "V",
+            "_id": "VZ"
+         }
+      ]
+   }
+}
